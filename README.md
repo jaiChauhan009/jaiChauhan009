@@ -43,6 +43,7 @@ I'm a passionate developer focused on building full-stack web and mobile applica
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiChauhan009&layout=compact&theme=radical)  
 
-![Streak Stats](https://streak-stats.demolab.com?user=jaiChauhan009&theme=radical)
+![Streak Stats](https://streak-stats.demolab.com?user=jaiChauhan009&theme=tokyonight)
+
  
 ---
