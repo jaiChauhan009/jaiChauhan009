@@ -39,11 +39,10 @@ I'm a passionate developer focused on building full-stack web and mobile applica
 
 ### 📈 GitHub Stats  
 
-![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiChauhan009&show_icons=true&theme=radical)  
+<!-- ![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiChauhan009&show_icons=true&theme=radical)   -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiChauhan009&layout=compact&theme=radical)  
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jaiChauhan009&theme=radical)  
-
-
+![Streak Stats](https://streak-stats.demolab.com?user=jaiChauhan009&theme=radical)
+ 
 ---
