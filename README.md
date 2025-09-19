@@ -1,9 +1,10 @@
-### 👋 Hi there, I'm JAI KISHAN!  
+### 👋 Hi there, I'm JAI CHAUHAN!  
 
 I'm a passionate developer focused on building full-stack web and mobile applications and exploring new technologies..  
 
 - 🎓 Education: B.Tech, NIT Kurukshetra (2021–2025)  
-- 🔭 Currently working on: [mx-lite-wallet](https://github.com/jaiChauhan009/mx-lite-wallet)  
+- 🔭 Currently working on: [Dharitri organization]
+<!-- - (https://github.com/jaiChauhan009/mx-lite-wallet)   -->
 - 🌱 Currently learning:  
   - **Go** (GORM, Gin, Fiber)  
   - **Java** (Spring Boot)  
@@ -13,7 +14,7 @@ I'm a passionate developer focused on building full-stack web and mobile applica
   - **App Development** (Kotlin, MVVM, KMP)  
 - 📫 How to reach me:  
   - **Gmail**: [jaichauhan091@gmail.com](mailto:jaichauhan091@gmail.com)  
-  - **LinkedIn**: [jai_chauhan](https://www.linkedin.com/in/jai-chauhan-15b0a5238/)  
+  - **LinkedIn**: [https://www.linkedin.com/in/jai-chauhan-15b0a5238/](https://www.linkedin.com/in/jai-chauhan-15b0a5238/)  
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!  
 
 
