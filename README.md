@@ -1,42 +1,34 @@
-### 👋 Hi there, I'm JAI CHAUHAN!  
+  ### 👋 Hi there, I'm JAI CHAUHAN!
 
-I'm a passionate developer focused on building full-stack web and mobile applications and exploring new technologies..  
+  Backend Software Engineer with 1.5+ years building production **fintech systems** for
+  payments and lending — payments engines, double-entry ledgers, event-driven messaging,
+  and microservices at scale.
 
-- 🎓 Education: B.Tech, NIT Kurukshetra (2021–2025)  
-- 🔭 Currently working on: [Dharitri organization]
-<!-- - (https://github.com/jaiChauhan009/mx-lite-wallet)   -->
-- 🌱 Currently learning:  
-  - **Go** (GORM, Gin, Fiber)  
-  - **Java** (Spring Boot)  
-  - **Python** (Django)  
-- 💬 Ask me about:  
-  - **Web Development** (React, Node.js)  
-  - **App Development** (Kotlin, MVVM, KMP)  
-- 📫 How to reach me:  
-  - **Gmail**: [jaichauhan091@gmail.com](mailto:jaichauhan091@gmail.com)  
-  - **LinkedIn**: [https://www.linkedin.com/in/jai-chauhan-15b0a5238/](https://www.linkedin.com/in/jai-chauhan-15b0a5238/)  
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!  
+  - 🎓 Education: B.Tech (ECE), NIT Kurukshetra (2021–2025)
+  - 💼 Currently: Software Engineer @ **Kosh (YC)** — building the core payments engine
+  (10K+ daily transactions), a double-entry reconciliation ledger (20K+ txns/day), and a
+  real-time RabbitMQ/MQTT chat system (5K+ msgs/min, sub-200ms latency) 
+  - 🏗️  Previously: Software Developer @ **Dugong Global Service** — pluggable payment
+  gateway abstractions, published npm/pip packages & blockchain SDKs across JS, Go, and
+  Python
+  - 🌱 Currently deepening: **Go**, event-driven architectures (Kafka/RabbitMQ), and
+  microservices migrations
+  - 💬 Ask me about: **Backend Engineering** (Python/FastAPI, Node.js/Express, Go), **REST 
+  APIs & Microservices**, **Payments/Fintech systems**, SQL/NoSQL databases
+  - 📫 Reach me: jaichauhan091@gmail.com · LinkedIn
+  - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
+  ### 🛠️  Tech Stack
+  Go, Python, JavaScript/TypeScript, Java, C++ · FastAPI, Django, Express, Node.js ·
+  PostgreSQL, MongoDB, MySQL, Redis, Kafka, RabbitMQ · AWS, Docker, Linux, Git · (light)
+  Kotlin/Android
 
+  ### 🚀 Featured Projects
+  - **FitSphere** – async FastAPI + SQLAlchemy + PostgreSQL, Gemini AI integration,
+  Firebase JWT auth 
+  - **Voting Server** – Node.js/Express/MongoDB/Redis real-time voting, Redis pub/sub, 1K+
+  concurrent WebSocket clients
 
----
-
-
-
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-
-
----
 
 ### 📈 GitHub Stats  
 
